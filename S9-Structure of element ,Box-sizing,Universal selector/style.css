@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+img{
+    padding: 30px;
+    margin: 20px;
+    width:300px;
+    background-color: aqua;
+    border: 10px dashed red;
+    border-radius: 50%;
+}
+h1{
+    background-color: aqua;
+    text-align: center;
+    color: blueviolet;
+    border-radius: 50%;
+}
